@@ -11,7 +11,7 @@ Preview
 Possible variables to be open to the end-users
 ----------------------------------------------
 
--	Switch outer oval background gradient
+-	Switch outer circle background gradient
 -	Switch inner oval color when normal
 -	Switch inner oval color when active
 -	Response item color for hover and active states
@@ -21,4 +21,4 @@ I would *not* open the switch sizing to end-users as it would oblige them to fid
 Known issues
 ------------
 
-This demo was successfully tested in Chrome, Firefox, Safari, Opera and IE9+.
+This demo was successfully tested in Chrome, Firefox, Safari, Opera and IE9+. Haven't had time to test in IE 8 or older but it *should* work as there are no CSS transforms in this demo.
